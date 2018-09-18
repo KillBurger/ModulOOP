@@ -1,2 +1,25 @@
 # ModulOOP
-![alt next](https://github.com/KillBurger/ModulOOP/upload/master)
+Latihan 1
+![alt next](https://github.com/KillBurger/ModulOOP/blob/master/Screenshot%20(65).png)
+Latihan 2
+![alt next](https://github.com/KillBurger/ModulOOP/blob/master/Screenshot%20(66).png)
+Latihan 3
+![alt next](https://github.com/KillBurger/ModulOOP/blob/master/Screenshot%20(67).png)
+Luas Permukaan Balok
+![alt next](https://github.com/KillBurger/ModulOOP/blob/master/Screenshot%20(68).png)
+Latihan 4
+![alt next](https://github.com/KillBurger/ModulOOP/blob/master/Screenshot%20(69).png)
+Latihan 5
+![alt next](https://github.com/KillBurger/ModulOOP/blob/master/Screenshot%20(70).png)
+Latihan 6
+![alt next](https://github.com/KillBurger/ModulOOP/blob/master/Screenshot%20(71).png
+Latihan 7
+![alt next](https://github.com/KillBurger/ModulOOP/blob/master/Screenshot%20(72).png)
+Latihan 8
+![alt next](https://github.com/KillBurger/ModulOOP/blob/master/Screenshot%20(73).png)
+Latihan 9
+![alt next](https://github.com/KillBurger/ModulOOP/blob/master/Screenshot%20(74).png)
+Latihan 10
+![alt next](https://github.com/KillBurger/ModulOOP/blob/master/Screenshot%20(75).png)
+Latihan 11
+![alt next](https://github.com/KillBurger/ModulOOP/blob/master/Screenshot%20(76).png)
